@@ -1,0 +1,6 @@
+{
+  "create_kit_name_kit_test.py::test_negative_create_kit_name_empty": true,
+  "create_kit_name_kit_test.py::test_negative_create_kit_name_512": true,
+  "create_kit_name_kit_test.py::test_negative_create_kit_no_name": true,
+  "create_kit_name_kit_test.py::test_negative_create_kit_name_diftype": true
+}

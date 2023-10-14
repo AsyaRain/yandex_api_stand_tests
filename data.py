@@ -4,10 +4,6 @@ headers = {
 
 kit_body = {
        "name": "Мой набор",
-       "card": {},
-       "productsList": 'null',
-       "id": 7,
-       "productsCount": 0
    }
 
 user_body = {

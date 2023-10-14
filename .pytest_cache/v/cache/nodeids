@@ -1,0 +1,15 @@
+[
+  "create_kit_name_kit_test.py::test_negative_create_kit_name_512",
+  "create_kit_name_kit_test.py::test_negative_create_kit_name_diftype",
+  "create_kit_name_kit_test.py::test_negative_create_kit_name_empty",
+  "create_kit_name_kit_test.py::test_negative_create_kit_no_name",
+  "create_kit_name_kit_test.py::test_positive_create_kit_1",
+  "create_kit_name_kit_test.py::test_positive_create_kit_2",
+  "create_kit_name_kit_test.py::test_positive_create_kit_english",
+  "create_kit_name_kit_test.py::test_positive_create_kit_enlish",
+  "create_kit_name_kit_test.py::test_positive_create_kit_numbers",
+  "create_kit_name_kit_test.py::test_positive_create_kit_russian",
+  "create_kit_name_kit_test.py::test_positive_create_kit_space",
+  "create_kit_name_kit_test.py::test_positive_create_kit_symbols",
+  "sender_stand_request.py::test_create_user"
+]
